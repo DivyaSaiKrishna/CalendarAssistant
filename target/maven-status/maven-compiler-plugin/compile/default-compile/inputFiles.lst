@@ -1,0 +1,9 @@
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/resource/CalenderAssistantResource.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/config/JerseyConfiguration.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/dao/CalendarAssistantDao.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/dao/model/ScheduleMeetingModel.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/dao/model/AvailableAppointment.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/service/CalenderAssistantService.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/dao/model/ConflictsOutputModel.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/CalendarAssistantApplication.java
+/Users/divyasaikrishnaavvaru/Downloads/CalendarAssistant/src/main/java/com/Calendar/calendarassistant/Exceptions/AppointmentException.java
