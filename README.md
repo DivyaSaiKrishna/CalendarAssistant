@@ -8,6 +8,7 @@ Inputs
         "7:30-8:00" : "Not Available"
     }
 }
+
 http://localhost:8080/appointment/setMeeting
 {
     "EmpId" : "002”,
@@ -16,11 +17,13 @@ http://localhost:8080/appointment/setMeeting
         "7:30-8:00" : "Not Available"
     }
 }
+
 http://localhost:8080/appointment/getAvailableSlots
 {
    "empid1" : "001",
    "empid2" : "002"
 }
+
 http://localhost:8080/appointment/getConflits
 '7:30-8:00'
 
