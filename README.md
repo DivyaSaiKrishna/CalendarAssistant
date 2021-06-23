@@ -1,6 +1,7 @@
 # CalendarAssistant
+
 Inputs
-#http://localhost:8080/appointment/setMeeting
+http://localhost:8080/appointment/setMeeting
 {
     "EmpId" : "001",
     "Slots":{
